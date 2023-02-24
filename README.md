@@ -1,2 +1,2 @@
 # test
-this describes the test
+this README.md file describes test of a Github posting
